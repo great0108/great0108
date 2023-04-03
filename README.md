@@ -1,5 +1,5 @@
 ### Hi there 👋
-![great0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=great0108&show_icons=true&theme=radical)
+![great0108's GitHub stats](https://github-readme-stats.vercel.app/api?username=great0108&show_icons=true&theme=radical&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=great0108)](https://solved.ac/great0108)
 
 <!--
