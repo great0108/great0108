@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=great0108)](https://solved.ac/great0108)
 
 <!--
 **great0108/great0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
